@@ -36,7 +36,7 @@ group :development do
   gem 'sqlite3'
   gem 'rails_layout'
 end
-
+gem 'rails_12factor', group: :production
 # gem 'pg'
 # group :production do
 #   gem 'pg'
